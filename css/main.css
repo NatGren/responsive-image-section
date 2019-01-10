@@ -55,13 +55,13 @@ img {
   font-size: .95em;
 }
 
-.chocolate {
+.img-flex {
   background-color: #e2e2e2;
 }
 
 .btn {
-  padding: .4em .75em .3em;
-  border-radius: 8px;
+  padding: 0.5em 0.75em;
+  border-radius: 4px;
   border: 3px solid #333;
   display: block;
   background-color: #333;
