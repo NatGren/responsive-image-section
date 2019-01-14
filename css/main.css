@@ -16,6 +16,10 @@ body {
   background-color: #000;
 }
 
+div {
+  padding: 1rem;
+}
+
 p {
   text-align: left;
 }
@@ -39,18 +43,61 @@ a {
   width: 100%;
 }
 
-@@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 25em) {
+
+  html {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+
+  h1 {
+    margin: 0 0 1.3rem;
+  }
+
+  p {
+    margin: 0 0 1.3rem;
+  }
 
 }
 
-@@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+
+  h1 {
+    margin: 0 0 1.3rem;
+  }
+
+  p {
+    margin: 0 0 1.3rem;
+  }
 
 }
 
-@@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+
+  h1 {
+    margin-left: 0 0 1.3rem;
+  }
+
+  p {
+    margin: 0 0 1.3rem;
+  }
 
 }
 
-@@media only screen and (min-width: 90em) {
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 100%;
+  }
 
 }
