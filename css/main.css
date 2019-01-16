@@ -48,7 +48,7 @@ a {
   color: #fff;
 }
 
-.btn:hover {
+a:hover {
   background-color: #000;
 }
 
