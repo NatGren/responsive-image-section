@@ -22,6 +22,10 @@ body {
   color: #000;
 }
 
+section {
+  background-color: #e2e2e2;
+}
+
 img {
   width: 50%;
 }
@@ -46,10 +50,6 @@ a {
 
 .btn:hover {
   background-color: #000;
-}
-
-.cards {
-  background-color: #e2e2e2;
 }
 
 .img-flex {
